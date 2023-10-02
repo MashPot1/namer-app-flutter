@@ -1,4 +1,4 @@
-# todo_project
+# namer-app
 
 A new Flutter project.
 
